@@ -1,6 +1,6 @@
 {
-  "Show all available commands.": "Tampilkan semua perintah tersedia.",
-  "Show all enabled modules.": "Tampilkan semua modul aktif",
+  "Show all available commands.": "Tampilkan semua perintah yang tersedia.",
+  "Show all enabled modules.": "Tampilkan semua modul yang telah aktif",
   "Reset your settings to default. Useful when you messed up with the settings": "Atur ulang pengaturan ke awal. Berguna ketika Anda mengacaukan pengaturan.",
   "Turn on/off Advance Target Information": "Hidup/mati-kan Informasi Target Lanjutan",
   "Unlock and set FPS. Value: 1-120": "Buka dan atur FPS. Nilai: 1-120",
@@ -10,7 +10,7 @@
 
   "__@afk__": "__@afk__",
   "Turn on/off Auto TrickDead": "Hidup/mati-kan Auto TrickDead",
-  "Set hp/sp conditions to trigger.": "Atur kondisi hp/sp untuk memicu.",
+  "Set hp/sp conditions to trigger.": "Atur kondisi hp/sp untuk memicu TrickDead.",
 
   "__@as__": "__@as__",
   "Turn on/off Auto Skill EX": "Hidup/mati-kan Auto Skill EX",
@@ -33,11 +33,11 @@
   "Turn on/off priest auto debuffer. (Lex and Decrease Agi)": "Hidup/mati-kan auto debuffer priest. (Lex dan Decrease AGI)",
 
   "__autoquest__": "__autoquest__",
-  "Turn on/off Quest Assistant.": "Hidup/mati-kan Quest Assistant.",
-  "Turn on/off Questing Warping upon accepting quest.": "Hidup/mati-kan Warp Otomatis saat menerima Quest.",
+  "Turn on/off Quest Assistant.": "Hidup/Mati-kan Quest Assistant.",
+  "Turn on/off Questing Warping upon accepting quest.": "Hidup/Mati-kan Warp Otomatis saat menerima Quest.",
 
   "__autosuicide__": "__autoquest__",
-  "Turn on/off Auto Suicide.": "Hidup/mati-kan Auto Suicide.",
+  "Turn on/off Auto Suicide.": "Hidup/Mati-kan Auto Suicide.",
   "Save current coordinate and map for leveling down.": "Simpan peta dan koordinat saat ini untuk menurunkan level.",
 
   "__lockspot__": "__lockspot__",
